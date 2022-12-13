@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.app__name {
+    font-family: Mulish;
+}
+.nav__link {
+    font-family: Mulish;
+}
+.app__title{
+    font-family: Mulish;
+line-height: 1.5em;
+}
+.app__subtitle{
+    /* font-family: Ink Free; */
+    font-family: Gabriola;
+}
